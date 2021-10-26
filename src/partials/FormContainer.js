@@ -67,7 +67,8 @@ const useStyles = makeStyles((theme) => ({
         fontSize: 16,
         color: "#fff",
         fontWeight: 600,
-        padding: '5px 10px'
+        padding: '5px 10px',
+        border: 0,
     }
 }))
 
