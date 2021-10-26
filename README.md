@@ -7,4 +7,4 @@ run frontend: cd ./client/npm start
 
 Tests: 
 run frontend tests: cd ./client npm start
-run backend test: ToDo
+run backend test: npm run test
